@@ -1,0 +1,10 @@
+.fl{
+  
+}
+.hh{
+    height: 1000px;
+    width: 1350px;
+    position: fixed;
+    background-image: url("../../assets/10.jpg");
+    background-size: 1350px 600px;
+}

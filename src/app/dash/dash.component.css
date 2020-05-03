@@ -1,0 +1,15 @@
+.dash
+{
+    height: 600px;
+    width: 1350px;
+    background-image: url('../../assets/re1.jpg');
+    background-size: 1350px 600px;
+}
+.fpadd
+{
+    padding-left: 1100px;
+}
+button:hover
+{
+    background-color:grey;
+}

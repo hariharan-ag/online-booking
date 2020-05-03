@@ -1,0 +1,33 @@
+  #myVideo {
+    position:relative;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 10%;
+  }
+  .his{
+    height: 450px;
+    width: 1350px;
+   background-image: url("../../assets/off4.jpg");
+   background-size: 1350px 450px;
+   font-size: 30px;
+  }
+  .loc{
+    height: 450px;
+    width: 1350px;
+   background-image: url("../../assets/off1.jpg");
+   background-size: 1350px 450px;
+   font-size: 30px;
+  }
+  .mod{
+    height: 450px;
+    width: 1350px;
+   background-image: url("../../assets/off5.jpg");
+   background-size: 1350px 450px;
+   font-size: 30px;
+  }
+
+ 
+  
+ 
+

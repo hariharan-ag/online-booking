@@ -1,0 +1,22 @@
+.sign
+{
+    height: 600px;
+    width: 1350px;
+    background-image: url('../../assets/re3.jpg');
+    background-size: 1350px 600px;
+}
+.pad
+{
+    padding-left: 1100px;
+}
+.formgroup
+{
+padding-left: 10px;
+margin-right: 50px;
+border-radius: 20px;
+background-image: url("../../assets/w4.png");
+}
+input:hover
+{
+    border-color:red; 
+}

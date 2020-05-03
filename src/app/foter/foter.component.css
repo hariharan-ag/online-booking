@@ -1,0 +1,14 @@
+.column {
+    margin-left: 30px;
+    float: left;
+    width: 20.33%;
+    padding: 5px;
+  }
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  .fot{
+      background-color: bisque;
+  }

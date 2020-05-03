@@ -1,0 +1,21 @@
+
+.user
+{
+background-image: url("../../assets/sp3.jpg");
+border:40px;
+padding-top:30px;
+border-radius:30px;
+margin-top: 20px;
+margin-bottom:50px;
+margin-right:1000px;
+margin-left:50px;
+}
+.use{
+    height: 600px;
+    width: 1350px;
+    background-image: url('../../assets/37.jpg');
+    background-size: 1350px 600px;
+}
+.col-12{
+    padding-left: 70px;
+}

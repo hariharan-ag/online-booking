@@ -1,0 +1,31 @@
+.submit
+{
+    height: 600px;
+    width: 1350px;
+}  
+.des
+{
+-webkit-border-radius: 53px;
+-moz-border-radius: 53px;
+border-radius: 43px;
+-webkit-box-shadow: 18px 18px 9px #000000;
+-moz-box-shadow: 18px 18px 9px #000000;
+box-shadow: 18px 18px 9px #000000;
+background-color: aquamarine;
+padding: 10px;
+}
+.desg
+{
+-webkit-border-radius: 53px;
+-moz-border-radius: 53px;
+border-radius: 43px;
+-webkit-box-shadow: 18px 18px 9px #000000;
+-moz-box-shadow: 18px 18px 9px #000000;
+box-shadow: 18px 18px 9px #000000;
+background-color:royalblue;
+padding: 10px;
+}
+.s
+{
+padding-left: 1250px;
+}

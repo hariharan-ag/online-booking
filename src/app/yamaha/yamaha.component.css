@@ -1,0 +1,28 @@
+#myVideo1 {
+    position:relative;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 10%;
+  }
+  .his1{
+    height: 450px;
+    width: 1350px;
+   background-image: url("../../assets/y1.jpg");
+   background-size: 1350px 450px;
+   font-size: 30px;
+  }
+  .loc1{
+    height: 450px;
+    width: 1350px;
+   background-image: url("../../assets/y3.jpg");
+   background-size: 1350px 450px;
+   font-size: 30px;
+  }
+  .mod1{
+    height: 450px;
+    width: 1350px;
+   background-image: url("../../assets/y5.jpg");
+   background-size: 1350px 450px;
+   font-size: 30px;
+  }
